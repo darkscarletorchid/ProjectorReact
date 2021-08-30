@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ProjectorReact/static/css/main.a617e044.chunk.css",
+    "main.js": "/ProjectorReact/static/js/main.26c0d93d.chunk.js",
+    "main.js.map": "/ProjectorReact/static/js/main.26c0d93d.chunk.js.map",
+    "runtime-main.js": "/ProjectorReact/static/js/runtime-main.fb9c39eb.js",
+    "runtime-main.js.map": "/ProjectorReact/static/js/runtime-main.fb9c39eb.js.map",
+    "static/js/2.daf49ca6.chunk.js": "/ProjectorReact/static/js/2.daf49ca6.chunk.js",
+    "static/js/2.daf49ca6.chunk.js.map": "/ProjectorReact/static/js/2.daf49ca6.chunk.js.map",
+    "static/js/3.c632fde6.chunk.js": "/ProjectorReact/static/js/3.c632fde6.chunk.js",
+    "static/js/3.c632fde6.chunk.js.map": "/ProjectorReact/static/js/3.c632fde6.chunk.js.map",
+    "index.html": "/ProjectorReact/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/ProjectorReact/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.daf49ca6.chunk.js.LICENSE.txt": "/ProjectorReact/static/js/2.daf49ca6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb9c39eb.js",
+    "static/js/2.daf49ca6.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.26c0d93d.chunk.js"
+  ]
+}
